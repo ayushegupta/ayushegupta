@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ayushegupta
-- 👀 I’m interested in web development (HTML ,CSS ,Javascript,.net , C#) , App Development (cross platform -Dart -Flutter), Artificial Intelligence , Data Structures and Algorithm (JAVA, C , Python) , Animations
-- 🌱 I’m currently learning UNIX 
+- 👀 I’m interested in web development (HTML ,CSS ,Javascript,Asp.net , C# ,PHP, MySql ,Ms Excel) , App Development (cross platform -Dart -Flutter), Artificial Intelligence , Data Structures and Algorithm (JAVA, C , Python) , Stop motion Animations ,
+- 🌱 I’m currently learning something new everyday 
 - 💞️ I’m looking to collaborate on new projects related development
-- 📫 How to reach out - @ayushigupta1414@gmail.com @ayu_shey -insta  Guptaji.ki_ladki - You tube
+- 📫 How to reach out - @ayushigupta1414@gmail.com
+- 😊 @ayu_shey  
+- 😎You tube Guptaji.ki_ladki
 
 
