@@ -5,5 +5,5 @@
 - 📫 How to reach out - @ayushigupta1414@gmail.com
 - 😊 @ayu_shey  
 - 😎You tube Guptaji.ki_ladki
-
+- 	[LinkedIn : ayushi-gupta](https://www.linkedin.com/in/ayushi-gupta-854058189/)
 
