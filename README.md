@@ -1,4 +1,5 @@
- <h1 align="center">HEY 🙌 I'M Ayushi Gupta</h1>
+<h1 align="center">Hey there 🙌 Ayushi this side</h1>
+
 
 - 🌱 I’m currently learning something new everyday 
 - 💞️ I’m looking to collaborate on new projects development related 
