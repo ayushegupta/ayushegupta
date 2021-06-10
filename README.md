@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 🙌 Ayushi this side</h1>
+<h1 align="center">Hey there 🙌 </h1>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayushegupta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
