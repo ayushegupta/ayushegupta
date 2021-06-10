@@ -1,10 +1,6 @@
 <h1 align="center">Hey there 🙌 Ayushi this side</h1>
 
 
-- 🌱 I’m currently learning something new everyday 
-- 💞️ I’m looking to collaborate on new projects development related 
-- 📫 How to reach out - @ayushigupta1414@gmail.com
-
 <img src="https://github-readme-stats.vercel.app/api?username=ayushegupta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +11,8 @@
 <a href="https://instagram.com/https://www.instagram.com/ayu_shey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayu_shey/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpuml1qe4xsndlcxh5mrqla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpuml1qe4xsndlcxh5mrqla" height="30" width="40" /></a>
 </p>
+
+- 🌱 I’m currently learning something new everyday 
+- 💞️ I’m looking to collaborate on new projects development related 
+- 📫 How to reach out - @ayushigupta1414@gmail.com
+
