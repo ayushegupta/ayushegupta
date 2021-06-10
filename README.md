@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ayushegupta
+ <h1 align="center">HEY 🙌 I'M Ayushi Gupta</h1>
+
 - 🌱 I’m currently learning something new everyday 
 - 💞️ I’m looking to collaborate on new projects development related 
 - 📫 How to reach out - @ayushigupta1414@gmail.com
