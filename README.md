@@ -1,6 +1,4 @@
 <h1 align="center">Hey there 🙌 </h1>
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayushegupta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 <h3 align="center">Languages and Tools:</h3>
@@ -16,3 +14,4 @@
 - 💞️ I’m looking to collaborate on new projects development related <br>
 - 📫 How to reach out - @ayushigupta1414@gmail.com
 </p>
+<img align="right" src="https://i.pinimg.com/originals/42/7b/61/427b6114f30bcc2f7c9795b83b4cf5ab.gif"/>
