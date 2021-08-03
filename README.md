@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 - 🌱 I’m currently learning something new everyday <br>
-- 💞️ I’m looking to collaborate on new projects development related <br>
+- 💞️ I’m looking to collaborate on new development projects <br>
 - 📫 How to reach out - @ayushigupta1414@gmail.com
 </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ayushegupta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
